@@ -12,14 +12,14 @@ Deathblade,BFSword;BFSword,AD,Grants large flat AD and increases on takedowns
 DefenderEmblemItem,FryingPan;ChainVest,Special,Grants the holder the Defender trait
 DemaciaEmblemItem,Spatula;ChainVest,Special,Grants the holder the Demacia trait
 DragonsClaw,NegatronCloak;NegatronCloak,Tank,High MR;strong magic damage reduction
-EdgeofNight,BFSword;ChainVest,AD,Grants AD and a stealth cleanse on low HP
+EdgeOfNight,BFSword;ChainVest,AD,Grants AD and a stealth cleanse on low HP
 Evenshroud,NegatronCloak;GiantsBelt,Tank,Reduces enemy resistances after CC
 ExecutionerEmblemItem,FryingPan;SparringGloves,Special,Grants the holder the Vanquisher/crit trait
 FreljordEmblemItem,Spatula;GiantsBelt,Special,Grants the holder the Freljord trait
 GargoyleStoneplate,ChainVest;NegatronCloak,Tank,More defenses the more enemies target you
 GiantSlayer,BFSword;RecurveBow,AD,Bonus damage to high-HP targets
 GuinsoosRageblade,NeedlesslyLargeRod;RecurveBow,AD,Grants stacking attack speed on hit
-HandofJustice,SparringGloves;TearOfTheGoddess,AD,Randomly grants omnivamp or bonus damage
+HandOfJustice,SparringGloves;TearOfTheGoddess,AD,Randomly grants omnivamp or bonus damage
 HextechGunblade,BFSword;NeedlesslyLargeRod,AP,Heals self/ally for ability damage dealt
 InfinityEdge,BFSword;SparringGloves,AD,Boosts crit chance and crit damage
 InvokerEmblemItem,FryingPan;TearOfTheGoddess,Special,Grants the holder the Invoker trait
@@ -38,7 +38,7 @@ QuickstrikerEmblemItem,FryingPan;RecurveBow,Special,Grants the holder the Quicks
 RabadonsDeathcap,NeedlesslyLargeRod;NeedlesslyLargeRod,AP,Massive increase to ability power
 RedBuff,RecurveBow;RecurveBow,AD,On-hit applies burn and reduces healing
 SlayerEmblemItem,FryingPan;BFSword,Special,Grants the holder the Slayer trait
-SpearofShojin,BFSword;TearOfTheGoddess,AD,Restores mana on hit after casting
+SpearOfShojin,BFSword;TearOfTheGoddess,AD,Restores mana on hit after casting
 SpiritVisage,TearOfTheGoddess;GiantsBelt,Tank,Increases healing and shielding received
 SteadfastHeart,SparringGloves;ChainVest,Tank,Reduces incoming damage while below HP threshold
 SteraksGage,BFSword;GiantsBelt,AD,Large shield when dropping low; bonus AD

@@ -30,10 +30,12 @@ Forged (full) items only.
 
 | Column | Description |
 |------|-------------|
-| item_id | Item ID |
-| name | Item name |
-| category | Item category (Damage, Tank, Utility, etc.) |
-| components | `;`-separated component item names |
+| name | Item name (canonical key) |
+| comp | `;`-separated component item names (2 parts) |
+| type | Item category (Damage, Tank, Utility, etc.) |
+| description | Text description |
+
+Derived split output: `items_s16_split.csv` adds `comp_0`, `comp_1` and drops `comp`.
 
 ---
 
@@ -43,10 +45,13 @@ One row per trait.
 
 | Column | Description |
 |------|-------------|
-| trait_id | Trait key |
 | name | Trait name |
-| type | Trait category |
-| tiers | `;`-separated tier breakpoints |
+| name_corrected | Normalized trait name for matching |
+| rank | Letter rank for power band (D..S) |
+| num_for_tier | `;`-separated breakpoints for activation counts |
+| is_unique | Whether the trait is unique |
+
+Derived split output: `traits_s16_split.csv` adds `tier_0..tier_3` from `num_for_tier` and drops `num_for_tier`.
 
 ---
 
