@@ -1,0 +1,44 @@
+name,num,description,related_trait
+Arcanist,2;4;6,Arcanists gain bonus Ability Power and scale AP with breakpoints.,Invoker;Ionia
+Bilgewater,3;5;7;10,Damage generates Silver Serpents; spend them for Armory power-ups.,Gunslinger;Longshot
+Bruiser,2;4;6,Bonus max HP for team; Bruisers gain more.,Defender;Juggernaut
+Defender,2;4;6,Grants Armor/MR to Defenders and nearby allies.,Bruiser;Juggernaut
+Demacia,3;5;7;11,Defensive rally mechanic as team loses HP.,Defender;Targon
+Disruptor,2;4,Deals bonus damage to Dazzled enemies; reduces incoming damage.,Arcanist;Invoker
+Freljord,3;5;7,Summons frost towers that buff/damage.,Defender;Juggernaut
+Gunslinger,2;4,Fires additional bullets periodically.,Longshot;Bilgewater
+Invoker,2;4,Increases team mana regen.,Arcanist;Ionia
+Ionia,3;5;7;10,Shields + unique stat bonuses per Ionian.,Invoker;Arcanist
+Ixtal,3;5;7,Completes Quests for Sunshards/loot.,Shurima;Piltover
+Juggernaut,2;4;6,Extra tankiness; heals allies on death.,Bruiser;Defender
+Longshot,2;3;4;5,Deals more damage with distance.,Gunslinger;Bilgewater
+Noxus,3;5;7;10,Summons scaling Aberration.,Slayer;Juggernaut
+Piltover,2;4;6,Activates inventions/modules.,Ixtal;HexMech
+Quickstriker,2;3;4;5,Gains Attack Speed scaling with enemy missing HP.,Slayer;Gunslinger
+ShadowIsles,2;3;4;5,Gains Souls on takedown; empowers team.,Slayer;Immortal
+Shurima,2;3;4,Ascends when losing HP; AS increase and healing.,Ixtal;Emperor
+Slayer,2;4;6,Omnivamp + bonus AD; bonus vs low-HP enemies.,Quickstriker;ShadowIsles
+Targon,2;4;6,Provides enhanced base stats and spell amplification.,Demacia;StarForger
+Vanquisher,2;3;4;5,Ability crit scaling for crit chance & damage.,Gunslinger;Arcanist
+Darkin,1;2;3,Gains Omnivamp; unlocks unique tier bonuses.,Slayer;Juggernaut
+Ascendant,1,Creates an Ascendant Charm in shop after combat.,Arcanist;Targon
+Assimilator,1,Adapts spell based on greater damage type.,Quickstriker;Arcanist
+Blacksmith,1,Forges powerful Artifacts over time.,Defender;Bruiser
+Caretaker,1,Generates free units/rerolls after combat.,Ixtal;Invoker
+Chainbreaker,1,Learns between multiple spell options.,Arcanist;Slayer
+Chronokeeper,1,Stores cast XP to accelerate player level.,Invoker;Arcanist
+DarkChild,1,Summons Tibbers who can be itemized.,Arcanist;Demacia
+Dragonborn,1,Transforms on cast and gains resistances.,Shurima;Targon
+Emperor,1,Summons constructs/sand soldiers.,Shurima;Ionia
+Eternal,1,Wolf companion adds bonus attack effects.,Slayer;Quickstriker
+Glutton,1,Consumes allies for permanent stats.,Bruiser;Juggernaut
+Harvester,1,Gains mana + reduces enemy armor/MR on kill.,Arcanist;Slayer
+Heroic,1,Starts combat from bench with special buffs.,Demacia;Targon
+HexMech,1,Pilot triggers effects upon death.,Piltover;Juggernaut
+Huntress,1,Protective bond between Neeko and targeted ally.,Shurima;Ixtal
+Immortal,1,Revives under certain conditions and gains traits.,ShadowIsles;Slayer
+Riftscourge,1,Void rift deals plasma strikes and amplifies damage.,Void;ShadowIsles
+RuneMage,1,Spell modifies based on active region traits.,Ionia;Arcanist
+Soulbound,1,Lucian & Senna dual synergy with special effects.,Gunslinger;Slayer
+StarForger,1,Accumulates Stardust to enhance spells.,Targon;Arcanist
+TheBoss,1,Unique HP/AS self-strengthen mechanic.,Bruiser;Juggernaut

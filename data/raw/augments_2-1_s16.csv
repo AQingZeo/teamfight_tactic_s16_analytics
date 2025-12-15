@@ -1,0 +1,157 @@
+name,rarity,tier,type
+Delayed Start,Silver,S,Scaling Strategic;Scaling;Strategic
+Good For Something I,Silver,S,Econ
+Leap of Faith,Silver,S,Combat Strategic;Combat;Strategic
+Makeshift Armor I,Silver,S,Combat
+Patience is a Virtue,Silver,S,Econ
+Slice of Life,Silver,S,Econ;Scaling;Econ;Scaling
+Slightly Magic Roll,Silver,S,Strategic
+Backup Bows,Silver,A,Items;Scaling;Items;Scaling
+Band of Thieves,Silver,A,Items
+Carve a Path,Silver,A,Items;Scaling;Items;Scaling
+Component Buffet,Silver,A,Items
+Continuous Conjuration,Silver,A,Items Scaling;Strategic;Items;Scaling;Strategic
+Extra Buckles,Silver,A,Items;Scaling;Items;Scaling
+Flowing Tears,Silver,A,Items Scaling;Items;Scaling
+Iron Assets,Silver,A,Items Combat;Items;Combat
+Item Grab Bag,Silver,A,Items
+Ones Twos Three,Silver,A,Econ
+Pandora’s Items,Silver,A,Items
+Risky Moves,Silver,A,Econ
+Silver Spoon,Silver,A,Econ
+Table Scraps,Silver,A,Items Econ;Scaling;Items;Econ;Scaling
+Titanic Titan,Silver,A,Strategic
+Air Axiom,Silver,B,Combat
+Caretaker’s Ally,Silver,B,Econ
+Critical Success,Silver,B,Items;Scaling;Items;Scaling
+Earth Axiom,Silver,B,Combat
+Eye For An Eye,Silver,B,Items
+Fire Axiom,Silver,B,Combat
+Latent Forge,Silver,B,Items;Scaling;Items;Scaling
+On a Roll,Silver,B,Econ;Scaling;Econ;Scaling
+Over Encumbered,Silver,B,Econ
+Placebo,Silver,B,Econ;Combat;Econ;Combat
+Preparation I,Silver,B,Combat;Scaling;Combat;Scaling
+Silver Destiny,Silver,B,Econ;Strategic;Econ;Strategic
+Team Building,Silver,B,Econ
+Trials of Twilight,Silver,B,Combat;Strategic;Combat;Strategic
+Water Axiom,Silver,B,Combat
+Artillery Barrage,Silver,C,Combat;Strategic;Combat;Strategic
+Augmented Power,Silver,C,Scaling;Strategic;Scaling;Strategic
+Branching Out,Silver,C,Strategic
+Called Shot,Silver,C,Econ
+Chaotic Evolution,Silver,C,Combat;Scaling;Combat;Scaling
+Crafted Crafting,Silver,C,Econ
+Efficient Shopper,Silver,C,Econ;Scaling;Econ;Scaling
+Spoils of War I,Silver,C,Econ
+Wood Axiom,Silver,C,Combat
+Lunch Money,Silver,D,Econ
+Survivor,Silver,D,Econ;Scaling;Econ;Scaling
+Birthday Reunion,Gold,S,Items;Econ;Scaling;Items;Econ;Scaling
+Ixtal Expeditionist,Gold,S,Econ;Traits;Scaling;Econ;Traits;Scaling
+Late Game Scaling,Gold,S,Econ;Combat;Econ;Combat
+Unsealed From Steel,Gold,S,Traits;Items
+Calculated Loss,Gold,A,Econ
+Cluttered Mind,Gold,A,Econ
+Epoch,Gold,A,Econ
+Heroic Grab Bag,Gold,A,Econ
+Hustler,Gold,A,Econ
+Infinity Protection,Gold,A,Items;Combat;Items;Combat
+Lifting Competition,Gold,A,Traits;Scaling;Strategic;Traits;Scaling;Strategic
+Makeshift Armor II,Gold,A,Combat
+Patient Study,Gold,A,Econ
+Pilfer,Gold,A,Econ
+Portable Forge,Gold,A,Items
+Salvage Bin,Gold,A,Items
+Slammin’,Gold,A,Items;Econ;Items;Econ
+Solo Leveling,Gold,A,Items;Scaling;Strategic;Items;Scaling;Strategic
+Speedy Double Kill,Gold,A,Items;Econ;Scaling;Items;Econ;Scaling
+Stars Are Born,Gold,A,Econ
+Two Much Value,Gold,A,Econ
+Advanced Loan,Gold,B,Econ;Strategic;Econ;Strategic
+Aura Farming,Gold,B,Items;Scaling;Items;Scaling
+Bodyguard Training,Gold,B,Combat
+Bringer of Ruin,Gold,B,Combat;Scaling;Combat;Scaling
+Caretaker’s Favor,Gold,B,Items;Scaling;Items;Scaling
+Cooking Pot,Gold,B,Combat;Scaling;Strategic;Combat;Scaling;Strategic
+Crown’s Will,Gold,B,Items;Combat;Items;Combat
+Cry Me A River,Gold,B,Items;Combat;Items;Combat
+Deadlier Blades,Gold,B,Items;Scaling;Items;Scaling
+Deadlier Caps,Gold,B,Items;Combat;Items;Combat
+Demacia Forever,Gold,B,Combat;Traits;Scaling;Combat;Traits;Scaling
+Double Trouble,Gold,B,Combat;Strategic;Combat;Strategic
+Evolve and Overcome,Gold,B,Econ;Traits;Econ;Traits
+Feed the Flames,Gold,B,Items;Combat;Items;Combat
+Gold Destiny,Gold,B,Econ;Strategic;Econ;Strategic
+Hard Bargain,Gold,B,Econ;Scaling;Strategic;Econ;Scaling;Strategic
+Heart of Steel,Gold,B,Items;Combat;Scaling;Items;Combat;Scaling
+Heavy Is the Crown,Gold,B,Combat;Strategic;Combat;Strategic
+Hefty Rolls,Gold,B,Combat;Scaling;Combat;Scaling
+High Voltage,Gold,B,Items;Combat;Items;Combat
+Legion of Threes,Gold,B,Items;Combat;Strategic;Items;Combat;Strategic
+Mace’s Will,Gold,B,Items;Combat;Items;Combat
+NO SCOUT NO PIVOT,Gold,B,Combat;Scaling;Combat;Scaling
+Pandora’s Bench,Gold,B,Econ
+Pandora’s Items II,Gold,B,Items;Scaling;Items;Scaling
+Poison Pals,Gold,B,Combat;Strategic;Combat;Strategic
+Preparation II,Gold,B,Combat;Scaling;Combat;Scaling
+Prizefighter,Gold,B,Items
+Pyromaniac,Gold,B,Items;Combat;Items;Combat
+Raining Gold,Gold,B,Econ
+Replication,Gold,B,Items
+Seraphim’s Staff,Gold,B,Items;Combat;Items;Combat
+Solo Plate,Gold,B,Items;Combat;Items;Combat
+Spirit of Redemption,Gold,B,Items;Combat;Items;Combat
+The Ruined King,Gold,B,Combat;Traits;Combat;Traits
+Thorn-Plated Armor,Gold,B,Items;Combat;Items;Combat
+Trade Sector,Gold,B,Econ
+Treasure Hunt,Gold,B,Scaling;Strategic;Scaling;Strategic
+Two Trick,Gold,B,Econ
+U.R.F,Gold,B,Items;Combat;Items;Combat
+Warlord’s Honor,Gold,B,Combat
+Wild Growth,Gold,B,Econ;Combat;Econ;Combat
+Worth the Wait,Gold,B,Econ;Scaling;Strategic;Econ;Scaling;Strategic
+Blood Offering,Gold,C,Items;Combat;Items;Combat
+Clear Mind,Gold,C,Econ
+Early Learnings,Gold,C,Combat;Scaling;Strategic;Combat;Scaling;Strategic
+Flexible,Gold,C,Strategic
+Kahunahuna,Gold,C,Combat
+Promised Protection,Gold,C,Items;Combat;Items;Combat
+Savings Account,Gold,C,Econ;Scaling;Econ;Scaling
+Silco’s Revenge,Gold,C,Combat;Traits;Combat;Traits
+Spear’s Will,Gold,C,Items;Combat;Items;Combat
+Spoils of War II,Gold,C,Econ
+Spreading Roots,Gold,C,Items;Econ;Items;Econ
+Warpath,Gold,C,Items;Econ;Scaling;Items;Econ;Scaling
+Band of Thieves II,Prismatic,S,Items
+Cruel Pact,Prismatic,S,Strategic
+Going Long,Prismatic,S,Strategic
+Level Up!,Prismatic,S,Econ
+Upward Mobility,Prismatic,S,Econ
+Birthday Present,Prismatic,A,Econ
+Buried Treasures,Prismatic,A,Items
+Comeback Story,Prismatic,A,Combat;Scaling;Combat;Scaling
+Expected Unexpectedness,Prismatic,A,Items;Econ;Strategic;Items;Econ;Strategic
+Forged in Strength,Prismatic,A,Items;Scaling;Items;Scaling
+Hedge Fund,Prismatic,A,Econ
+Living Forge,Prismatic,A,Items
+Prismatic Ticket,Prismatic,A,Econ
+Tactician’s Kitchen,Prismatic,A,Items;Combat;Items;Combat
+The World Runes,Prismatic,A,Items;Scaling;Strategic;Items;Scaling;Strategic
+Binary Airdrop,Prismatic,B,Items
+Lucky Gloves,Prismatic,B,Items
+Pandora’s Items III,Prismatic,B,Items
+Prismatic Destiny,Prismatic,B,Econ;Strategic;Econ;Strategic
+Radiant Relics,Prismatic,B,Items
+Secrets of the Sands,Prismatic,B,Econ;Traits;Strategic;Econ;Traits;Strategic
+Shimmerscale Essence,Prismatic,B,Items;Econ;Items;Econ
+We Stick Together,Prismatic,B,Combat;Traits;Strategic;Combat;Traits;Strategic
+Woven Magic,Prismatic,B,Items;Scaling;Strategic;Items;Scaling;Strategic
+Cursed Crown,Prismatic,C,Combat;Strategic;Combat;Strategic
+Hard Commit,Prismatic,C,Econ;Strategic;Econ;Strategic
+Nine Lives,Prismatic,C,Strategic
+Starter Kit,Prismatic,C,Econ
+The Axiomata,Prismatic,C,Combat;Scaling;Strategic;Combat;Scaling;Strategic
+The Trait Tree,Prismatic,C,Items;Econ;Strategic;Items;Econ;Strategic
+Spoils of War III,Prismatic,D,Econ
+Worth the Wait II,Prismatic,D,Econ

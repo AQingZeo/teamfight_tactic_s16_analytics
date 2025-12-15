@@ -1,0 +1,56 @@
+name,comp,type,description
+AdaptiveHelm,TearOfTheGoddess;NegatronCloak,Tank,Takes less magic dmg; restores mana on hit
+ArcanistEmblemItem,FryingPan;NeedlesslyLargeRod,Special,Grants the holder the Arcanist trait
+ArchangelsStaff,TearOfTheGoddess;NeedlesslyLargeRod,AP,Gains stacking AP during combat
+BilgewaterEmblemItem,Spatula;TearOfTheGoddess,Special,Grants the holder the Bilgewater trait
+Bloodthirster,BFSword;NegatronCloak,AD,Grants lifesteal and a self-shield when low
+BlueBuff,TearOfTheGoddess;TearOfTheGoddess,AP,Extra starting mana;fast mana on takedowns
+BrambleVest,ChainVest;ChainVest,Tank,Blocks crit damage; returns small AOE damage
+BruiserEmblemItem,FryingPan;GiantsBelt,Special,Grants the holder the Bruiser trait
+Crownguard,NeedlesslyLargeRod;ChainVest,Tank,Gains a huge shield; increases AP afterward
+Deathblade,BFSword;BFSword,AD,Grants large flat AD and increases on takedowns
+DefenderEmblemItem,FryingPan;ChainVest,Special,Grants the holder the Defender trait
+DemaciaEmblemItem,Spatula;ChainVest,Special,Grants the holder the Demacia trait
+DragonsClaw,NegatronCloak;NegatronCloak,Tank,High MR;strong magic damage reduction
+EdgeofNight,BFSword;ChainVest,AD,Grants AD and a stealth cleanse on low HP
+Evenshroud,NegatronCloak;GiantsBelt,Tank,Reduces enemy resistances after CC
+ExecutionerEmblemItem,FryingPan;SparringGloves,Special,Grants the holder the Vanquisher/crit trait
+FreljordEmblemItem,Spatula;GiantsBelt,Special,Grants the holder the Freljord trait
+GargoyleStoneplate,ChainVest;NegatronCloak,Tank,More defenses the more enemies target you
+GiantSlayer,BFSword;RecurveBow,AD,Bonus damage to high-HP targets
+GuinsoosRageblade,NeedlesslyLargeRod;RecurveBow,AD,Grants stacking attack speed on hit
+HandofJustice,SparringGloves;TearOfTheGoddess,AD,Randomly grants omnivamp or bonus damage
+HextechGunblade,BFSword;NeedlesslyLargeRod,AP,Heals self/ally for ability damage dealt
+InfinityEdge,BFSword;SparringGloves,AD,Boosts crit chance and crit damage
+InvokerEmblemItem,FryingPan;TearOfTheGoddess,Special,Grants the holder the Invoker trait
+IoniaEmblemItem,Spatula;NeedlesslyLargeRod,Special,Grants the holder the Ionia trait
+IonicSpark,NeedlesslyLargeRod;NegatronCloak,AP,Reduces enemy MR; deals magic damage on cast
+JeweledGauntlet,SparringGloves;NeedlesslyLargeRod,AP,Abilities can crit and deal more crit damage
+JuggernautEmblemItem,FryingPan;NegatronCloak,Special,Grants the holder the Juggernaut trait
+GuinsoosRageblade,RecurveBow;NegatronCloak,AD,On-hit deals bonus damage every few attacks
+LastWhisper,RecurveBow;SparringGloves,AD,Critical strikes shred enemy armor
+Morellonomicon,NeedlesslyLargeRod;GiantsBelt,AP,Abilities burn and apply anti-heal
+NashorsTooth,RecurveBow;GiantsBelt,AD,On-hit grants bonus AS and AP
+NoxusEmblemItem,Spatula;BFSword,Special,Grants the holder the Noxus trait
+ProtectorsVow,ChainVest;TearOfTheGoddess,Tank,Shields allies and grants bonus resistances
+Quicksilver,NegatronCloak;SparringGloves,AD,Periodic CC immunity and bonus AS
+QuickstrikerEmblemItem,FryingPan;RecurveBow,Special,Grants the holder the Quickstriker trait
+RabadonsDeathcap,NeedlesslyLargeRod;NeedlesslyLargeRod,AP,Massive increase to ability power
+RedBuff,RecurveBow;RecurveBow,AD,On-hit applies burn and reduces healing
+SlayerEmblemItem,FryingPan;BFSword,Special,Grants the holder the Slayer trait
+SpearofShojin,BFSword;TearOfTheGoddess,AD,Restores mana on hit after casting
+SpiritVisage,TearOfTheGoddess;GiantsBelt,Tank,Increases healing and shielding received
+SteadfastHeart,SparringGloves;ChainVest,Tank,Reduces incoming damage while below HP threshold
+SteraksGage,BFSword;GiantsBelt,AD,Large shield when dropping low; bonus AD
+StrikersFlail,GiantsBelt;SparringGloves,AD,Bonus on-hit damage and crit scaling
+SunfireCape,ChainVest;GiantsBelt,Tank,Burns nearby enemies and applies anti-heal
+TacticiansCape,FryingPan;Spatula,Special,Utility item granting extra team bonuses
+TacticiansCrown,Spatula;Spatula,Special,One additoinal team size 
+TacticiansShield,FryingPan;FryingPan,Special,Utility defensive item with unique shielding
+ThiefsGloves,SparringGloves;SparringGloves,Special,Randomly generates two items every round
+TitansResolve,ChainVest;RecurveBow,AD,Stacks AS and defenses when taking damage
+VoidEmblemItem,Spatula;RecurveBow,Special,Grants the holder the Void trait
+VoidStaff,TearOfTheGoddess;RecurveBow,AP,Massive magic penetration for spells
+WarmogsArmor,GiantsBelt;GiantsBelt,Tank,Huge flat HP increase
+YordleEmblemItem,Spatula;NegatronCloak,Special,Grants the holder the Yordle trait
+ZaunEmblemItem,Spatula;SparringGloves,Special,Grants the holder the Zaun trait

@@ -1,0 +1,102 @@
+name,tier,items,cost,trait,count,unlock_condition
+Anivia,D,JeweledGauntlet;SpearofShojin;BlueBuff;VoidStaff;ArchangelsStaff,1,Freljord;Invoker,30,NULL
+Blitzcrank,D,GargoyleStoneplate;WarmogsArmor;SpiritVisage;SunfireCape;ThiefsGloves,1,Zaun;Juggernaut,30,NULL
+Briar,B,ThiefsGloves;Bloodthirster;HandOfJustice;BilgewaterEmblem;TitansResolve,1,Noxus;Juggernaut;Slayer,30,NULL
+Caitlyn,D,InfinityEdge;SpearofShojin;GuinsoosRageblade;GiantSlayer;LastWhisper,1,Piltover;Longshot,30,NULL
+Illaoi,D,ThiefsGloves;GargoyleStoneplate;WarmogsArmor;SunfireCape;Bloodthirster,1,Bilgewater;Bruiser,30,NULL
+JarvanIV,C,GargoyleStoneplate;SunfireCape;WarmogsArmor;ThiefsGloves;SpiritVisage,1,Demacia;Defender,30,NULL
+Jhin,D,GuinsoosRageblade;InfinityEdge;KrakensFury;GiantSlayer;Deathblade,1,Ionia;Gunslinger,30,NULL
+KogMaw,A,GuinsoosRageblade;JeweledGauntlet;SpearofShojin;VoidStaff;BlueBuff,1,Void;Arcanist;Longshot,30,NULL
+Lulu,D,RabadonsDeathcap;SpearofShojin;JeweledGauntlet;VoidStaff;BlueBuff,1,Yordle;Arcanist,30,NULL
+Qiyana,D,Bloodthirster;HandOfJustice;ThiefsGloves;SteraksGage;TitansResolve,1,Ixtal;Slayer,30,NULL
+Rumble,D,GargoyleStoneplate;WarmogsArmor;SunfireCape;GuinsoosRageblade;ThiefsGloves,1,Yordle;Defender,30,NULL
+Shen,C,SunfireCape;GargoyleStoneplate;ThiefsGloves;WarmogsArmor;SpiritVisage,1,Ionia;Bruiser,30,NULL
+Sona,D,JeweledGauntlet;SpearofShojin;VoidStaff;BlueBuff;ArchangelsStaff,1,Demacia;Invoker,30,NULL
+Viego,C,Bloodthirster;TitansResolve;EdgeofNight;HandOfJustice;GuinsoosRageblade,1,ShadowIsles;Quickstriker,30,NULL
+Aphelios,C,GuinsoosRageblade;KrakensFury;GiantSlayer;InfinityEdge;Deathblade,2,Targon,25,NULL
+Ashe,A,GuinsoosRageblade;KrakensFury;InfinityEdge;GiantSlayer;LastWhisper,2,Freljord;Quickstriker,25,NULL
+Bard,D,JeweledGauntlet;SpearofShojin;ArchangelsStaff;NashorsTooth;BlueBuff,2,Caretaker,25,Reroll 4 times before Stage 2 Carousel
+ChoGath,A,GargoyleStoneplate;WarmogsArmor;SunfireCape;ThiefsGloves;SpiritVisage,2,Void;Juggernaut,25,NULL
+Ekko,D,HandOfJustice;Bloodthirster;TitansResolve;JeweledGauntlet;ThiefsGloves,2,Zaun;Disruptor,25,NULL
+Graves,D,Bloodthirster;InfinityEdge;ThiefsGloves;HandOfJustice;LuckyDoubloon,2,Bilgewater;Gunslinger,25,Field a Twisted Fate with 2 items in combat
+Neeko,D,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;ThiefsGloves,2,Ixtal;Arcanist;Defender,25,NULL
+Orianna,D,VoidStaff;JeweledGauntlet;SpearofShojin;Morellonomicon;ArchangelsStaff,2,Piltover;Invoker,25,3 Piltover or higher in combat
+Poppy,C,GargoyleStoneplate;WarmogsArmor;ThiefsGloves;SunfireCape;SpiritVisage,2,Demacia;Yordle;Juggernaut,25,Field a Demacian or Yordle with 2 items in combat
+RekSai,A,Bloodthirster;ThiefsGloves;HandOfJustice;SteraksGage;TitansResolve,2,Void;Vanquisher,25,NULL
+Sion,D,SunfireCape;WarmogsArmor;SpiritVisage;GargoyleStoneplate;DragonsClaw,2,Noxus;Bruiser,25,NULL
+Teemo,D,RabadonsDeathcap;SpearofShojin;JeweledGauntlet;VoidStaff;BlueBuff,2,Yordle;Longshot,25,NULL
+Tristana,D,InfinityEdge;GuinsoosRageblade;SpearofShojin;GiantSlayer;KrakensFury,2,Yordle;Gunslinger,25,NULL
+Tryndamere,A,Bloodthirster;GuinsoosRageblade;Quicksilver;TitansResolve;HandOfJustice,2,Freljord;Slayer,25,Field an Ashe with 2 items in combat
+TwistedFate,B,GuinsoosRageblade;CaptainsBrew;LuckyDoubloon;JeweledGauntlet;RedBuff,2,Bilgewater;Quickstriker,25,NULL
+Vi,C,ThiefsGloves;Bloodthirster;GargoyleStoneplate;SteraksGage;TitansResolve,2,Piltover;Zaun;Defender,25,NULL
+XinZhao,C,Bloodthirster;ThiefsGloves;GargoyleStoneplate;TitansResolve;SunfireCape,2,Demacia;Ionia;Warden,25,NULL
+Yasuo,D,HandOfJustice;Bloodthirster;InfinityEdge;TitansResolve;EdgeofNight,2,Ionia;Slayer,25,NULL
+Yorick,B,GargoyleStoneplate;WarmogsArmor;SpiritVisage;SunfireCape;DragonsClaw,2,ShadowIsles;Warden,25,Field a 2-star Viego with 2 items in combat
+Ahri,D,JeweledGauntlet;BlueBuff;SpearofShojin;ArchangelsStaff;RabadonsDeathcap,3,Ionia;Arcanist,18,NULL
+Darius,C,ThiefsGloves;GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage,3,Noxus;Defender,18,Have Draven drop 1 gold
+DrMundo,D,SpiritVisage;WarmogsArmor;GargoyleStoneplate;SunfireCape;BrambleVest,3,Zaun;Bruiser,18,NULL
+Draven,A,GuinsoosRageblade;KrakensFury;InfinityEdge;GiantSlayer;Deathblade,3,Noxus;Quickstriker,18,NULL
+Gangplank,B,HandOfJustice;SteraksGage;Bloodthirster;Quicksilver;LuckyDoubloon,3,Bilgewater;Slayer;Vanquisher,18,NULL
+Gwen,B,JeweledGauntlet;HandOfJustice;Bloodthirster;ThiefsGloves;TitansResolve,3,ShadowIsles;Disruptor,18,Collect 20 Souls
+Jinx,D,GuinsoosRageblade;KrakensFury;InfinityEdge;GiantSlayer;LastWhisper,3,Zaun;Gunslinger,18,NULL
+Kennen,B,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;DragonsClaw,3,Ionia;Yordle;Defender,18,8 star levels of Ionia; Yordle; or Defender
+Kobuko,A,ThiefsGloves;GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage,3,Yordle;Bruiser;Invoker,18,6 star levels of Brawler; Yordle; or Invoker
+Leblanc,D,JeweledGauntlet;BlueBuff;SpearofShojin;AdaptiveHelm;ArchangelsStaff,3,Noxus;Invoker,18,NULL
+Leona,D,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;DragonsClaw,3,Targon,18,NULL
+Loris,C,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;ThiefsGloves,3,Piltover;Warden,18,NULL
+Malzahar,S,JeweledGauntlet;VoidStaff;SpearofShojin;BlueBuff;Morellonomicon,3,Void;Disruptor,18,NULL
+Milio,D,JeweledGauntlet;SpearofShojin;VoidStaff;BlueBuff;Morellonomicon,3,Ixtal;Invoker,18,NULL
+Nautilus,B,GargoyleStoneplate;SunfireCape;WarmogsArmor;SpiritVisage;Evenshroud,3,Bilgewater;Juggernaut;Warden,18,NULL
+Sejuani,B,GargoyleStoneplate;WarmogsArmor;SunfireCape;ThiefsGloves;SpiritVisage,3,Freljord;Defender,18,NULL
+Vayne,B,GuinsoosRageblade;KrakensFury;InfinityEdge;GiantSlayer;Deathblade,3,Demacia;Longshot,18,NULL
+Zoe,D,JeweledGauntlet;SpearofShojin;BlueBuff;GuinsoosRageblade;NashorsTooth,3,Targon,18,NULL
+Ambessa,B,Bloodthirster;HandOfJustice;SteraksGage;TitansResolve;ThiefsGloves,4,Noxus;Juggernaut,10,NULL
+BelVeth,A,Bloodthirster;GuinsoosRageblade;HandOfJustice;Quicksilver;KrakensFury,4,Void,10,NULL
+Braum,B,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;BrambleVest,4,Freljord;Warden,10,NULL
+Diana,A,Bloodthirster;GuinsoosRageblade;TitansResolve;HandOfJustice;JeweledGauntlet,4,Targon,10,Field a 2-star Leona with 3 items in combat
+Fizz,D,JeweledGauntlet;HandOfJustice;RabadonsDeathcap;Bloodthirster;ThiefsGloves,4,Ixtal;Yordle,10,Field 5 Yordles or Bilgewater units;Level 7
+Garen,C,GargoyleStoneplate;WarmogsArmor;SpiritVisage;SunfireCape;DragonsClaw,4,Demacia;Defender,10,NULL
+Kaisa,S,GuinsoosRageblade;JeweledGauntlet;GiantSlayer;HextechGunblade;InfinityEdge,4,Ascendant;Void;Longshot,10,Field an longshot unit with 3 items in combat;Level 8
+Kalista,B,SpearofShojin;InfinityEdge;LastWhisper;StrikersFlail;GuinsoosRageblade,4,ShadowIsles;Vanquisher,10,Collect 75 Souls
+Lissandra,B,JeweledGauntlet;SpearofShojin;BlueBuff;VoidStaff;AdaptiveHelm,4,Freljord;Invoker,10,NULL
+Lux,B,JeweledGauntlet;SpearofShojin;BlueBuff;RabadonsDeathcap;NashorsTooth,4,Demacia;Arcanist,10,NULL
+MissFortune,A,LuckyDoubloon;InfinityEdge;FirstMatesFlintlock;SpearofShojin;DeadMansDagger,4,Bilgewater;Gunslinger,10,NULL
+Nasus,C,SpiritVisage;GargoyleStoneplate;WarmogsArmor;SunfireCape;DragonsClaw,4,Shurima,10,Lost 2/4/6 combats in a row with Azir
+Nidalee,D,HandOfJustice;JeweledGauntlet;Bloodthirster;TitansResolve;GiantSlayer,4,Ionia;Huntress,10,Field two 2-star Neekos in combat together
+Renekton,S,Bloodthirster;SteraksGage;TitansResolve;ThiefsGloves;HandOfJustice,4,Shurima,10,Win 2/4/6 in a row  combats with Azir
+RiftHerald,A,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;BrambleVest,4,Void;Bruiser,10,Have void active for 8 player combats
+Seraphine,B,JeweledGauntlet;SpearofShojin;Morellonomicon;VoidStaff;AdaptiveHelm,4,Piltover;Disruptor,10,NULL
+Singed,D,Morellonomicon;Bloodthirster;ArchangelsStaff;VoidStaff;HandOfJustice,4,Zaun;Jauggernaut,10,Take 30 damages;4 Zaunite or Jaggernaut 
+Skarner,D,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;ThiefsGloves,4,Ixtal,10,Have non-tank with a Gargoyle’s Stoneplate in combat
+Swain,A,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;ProtectorsVow,4,Noxus;Arcanist;Juggernaut,10,NULL
+Taric,A,GargoyleStoneplate;WarmogsArmor;SunfireCape;SpiritVisage;ThiefsGloves,4,Targon,10,NULL
+Veigar,A,RabadonsDeathcap;SpearofShojin;BlueBuff;JeweledGauntlet;NashorsTooth,4,Yordle;Arcanist,10,Field a unit with 2 Rabadon’s Deathcaps in combat
+Warwick,C,Bloodthirster;TitansResolve;SteraksGage;HandOfJustice;EdgeofNight,4,Zaun;Quickstriker,10,Have 2-star Vi;2-star Jinx
+Wukong,A,GargoyleStoneplate;SunfireCape;WarmogsArmor;SpiritVisage;Evenshroud,4,Ionia;Bruiser,10,NULL
+Yone,S,Bloodthirster;GuinsoosRageblade;TitansResolve;HandOfJustice;SteraksGage,4,Ionia;Slayer,10,3-star Yasuo
+Yunara,B,GuinsoosRageblade;InfinityEdge;KrakensFury;GiantSlayer;Deathblade,4,Ionia;Quickstriker,10,NULL
+Aatrox,S,Bloodthirster;HandOfJustice;TitansResolve;SteraksGage;GuinsoosRageblade,5,Darkin;WorldEnder;Slayer,9,Field a unit with 40% Omnivamp in Combat;Level 8
+AnnieTibbers,A,WarmogsArmor;GargoyleStoneplate;HeartOfSteel,5,Arcanist,9,NULL
+Annie,A,SpearofShojin;AdaptiveHelm;VoidStaff;BlueBuff;JeweledGauntlet,5,DarkChild;Arcanist,9,NULL
+Azir,S,GuinsoosRageblade;JeweledGauntlet;GiantSlayer;VoidStaff;NashorsTooth,5,Emperor;Invoker;Quickstriker,9,NULL
+Fiddlesticks,S,ThiefsGloves;JeweledGauntlet;HandOfJustice;Morellonomicon;RabadonsDeathcap,5,Harvester;Vanquisher,9,NULL
+Galio,S,ThiefsGloves;GargoyleStoneplate;WarmogsArmor;DragonsClaw;SpiritVisage,5,Demacia;Heroic,9,Have 12 total levels of Demacia
+Kindred,S,GuinsoosRageblade;KrakensFury;InfinityEdge;GiantSlayer;LastWhisper,5,Eternal;Quickstriker,9,NULL
+Lucian,S,InfinityEdge;GuinsoosRageblade;SpearofShojin;LastWhisper;GiantSlayer,5,Soulbound;Gunslinger,9,NULL
+Mel,S,AdaptiveHelm;JeweledGauntlet;SpearofShojin;BlueBuff;RabadonsDeathcap,5,Noxus;Disruptor,9,2-Star Ambessa with 1 item dies
+Ornn,A,GargoyleStoneplate;WarmogsArmor;ThiefsGloves;SunfireCape;SpiritVisage,5,Blacksmith;Warden,9,NULL
+Sett,S,HandOfJustice;JeweledGauntlet;Bloodthirster;ThiefsGloves;TitansResolve,5,Ionia;TheBoss,9,Level 8;Field only 1 unit in the first 2 rows of combat
+Shyvana,S,Bloodthirster;SteraksGage;ThiefsGloves;TitansResolve;HandOfJustice,5,Dragonborn;Juggernaut,9,NULL
+THex,C,InfinityEdge;HandOfJustice;Bloodthirster;TitansResolve;Quicksilver,5,HexMech;Piltover;Gunslinger,9,9 Piltover star levels
+TahmKench,S,PileOCitrus;ProtectorsVow;Bloodthirster;WarmogsArmor;GargoyleStoneplate,5,Bilgewater;Bruiser,9,Spend 500 Silver Serpents
+Thresh,S,Bloodthirster;Morellonomicon;HandOfJustice;VoidStaff;JeweledGauntlet,5,ShadowIsles;Warden,9,Collect 150 Souls
+Volibear,S,Bloodthirster;SteraksGage;ThiefsGloves;TitansResolve;HandOfJustice,5,Freljord;Bruiser,9,Level 8;Have a unit with 3800 Health
+Xerath,S,SpearofShojin;JeweledGauntlet;ArchangelsStaff;BlueBuff;AdaptiveHelm,5,Shurima;Ascendant,9,Alternate winning and losing 3/4/5 times with Azir
+Ziggs,S,GuinsoosRageblade;SpearofShojin;RabadonsDeathcap;JeweledGauntlet;VoidStaff,5,Yordle;Zaun;Longshot,9,Field a Yordle or Zaunite with 3 items;Level 9
+Zilean,S,SpearofShojin;JeweledGauntlet;BlueBuff;VoidStaff;AdaptiveHelm,5,Chronokeeper;Invoker,9,NULL
+AurelionSol,C,SpearofShojin;GuinsoosRageblade;BlueBuff;JeweledGauntlet;AdaptiveHelm,7,Targon;StarForger,9,Field 5 Targons in combat
+BaronNashor,S,Bloodthirster;SteraksGage;HandOfJustice;TitansResolve;InfinityEdge,7,Void;Riftscourge,9,Level 10;Void 7
+Brock,S,Bloodthirster;HandOfJustice;SteraksGage;TitansResolve;InfinityEdge,7,Ixtal,9,Collect 500 total Ixtal Shards
+Ryze,S,SpearofShojin;JeweledGauntlet;VoidStaff;BlueBuff;NashorsTooth,7,RuneMage,9,Field 4 regions together in combat
+Sylas,S,JeweledGauntlet;HandOfJustice;Bloodthirster;HextechGunblade;TitansResolve,7,Chainbreaker;Arcanist;Defender,9,Sell a 2-star Jarvan; a 2-star Garen; and a 2-star Lux
+Zaahen,S,Bloodthirster;TitansResolve;HandOfJustice;SteraksGage;InfinityEdge,7,Ionia;Darkin;Immortal,9,Get the Xin Zhao Champion Augment;field a 3-star Xin Zhao for 5 rounds
